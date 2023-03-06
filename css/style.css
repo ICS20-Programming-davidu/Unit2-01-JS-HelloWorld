@@ -1,0 +1,17 @@
+/* created by david ukiri
+*/
+
+body {
+	background-color: skyblue;
+}
+
+h1 {
+	background-color: rgb(196, 249, 6);
+	color: hsl(214, 63%, 32%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #6ccb52;
+}
